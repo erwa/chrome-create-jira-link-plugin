@@ -1,0 +1,17 @@
+{
+  "author": "Anthony Hsu",
+  "name": "Create Jira Link",
+  "version": "0.0.2",
+  "description": "Click a Jira ticket id (e.g.: XXX-123) and a pop-up with a link will appear.",
+  "permissions": ["activeTab", "storage"],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [{
+      "js": ["content.js"],
+      "matches": [ "\u003Call_urls>" ]
+  }],
+  "manifest_version": 2
+}
