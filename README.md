@@ -10,3 +10,5 @@ only those who have installed the plugin can see it.
 
 - Configure the Jira server on the extension options page.
 - Press Esc or click elsewhere to close the popup.
+
+Please report bugs and feature requests on the [Issues page](https://github.com/erwa/chrome-create-jira-link-plugin/issues).
