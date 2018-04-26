@@ -1,4 +1,4 @@
-### JiraLink - Create Jira link in popup
+### Create Jira Link
 
 Install it here: https://chrome.google.com/webstore/detail/gfjlkhjkfcbcjbkhajogliacgoocfphg
 
