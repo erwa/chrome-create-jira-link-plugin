@@ -1,8 +1,6 @@
-JiraLink - Create Jira link in popup
+### JiraLink - Create Jira link in popup
 
-Copyright (C) 2018 Anthony Hsu
-
-https://chrome.google.com/webstore/detail/gfjlkhjkfcbcjbkhajogliacgoocfphg
+Install it here: https://chrome.google.com/webstore/detail/gfjlkhjkfcbcjbkhajogliacgoocfphg
 
 Creates a Jira link in a popup for Jira ticket ids by clicking on them.
 Unlike other Jira link plugins, this plugin does not modify the original text; it
