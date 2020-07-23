@@ -12,3 +12,8 @@ only those who have installed the plugin can see it.
 - Press Esc or click elsewhere to close the popup.
 
 Please report bugs and feature requests on the [Issues page](https://github.com/erwa/chrome-create-jira-link-plugin/issues).
+
+
+### Acknowledgments
+
+Code was inspired by and adapted from the [Zhongwen Chrome extension](https://github.com/cschiller/zhongwen).
